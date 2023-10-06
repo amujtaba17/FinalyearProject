@@ -1,0 +1,25 @@
+Created By: Ahmed Mujtaba Jawad
+2K20/CSM/11 Final year project 2K20
+
+
+Mandatory: Python/Anaconda -> (3.10+)
+Using: VScode 
+Using: XAMPP Mysql For DataBase
+
+Algorithm Use:
+Haarcascade Opencv (Object Detection)
+LBPH Opencv (Face Recognition)
+
+Features of Project:
+Real time face detection
+
+->] MAIN GUI
+ i) Student management system
+			(Save, Take Photo Samples, Update, Delete, Clear) 
+ ii) Train Photo Samples 
+ iii) Take Attendance with Face Detection 
+ iv) Attendance Report 
+		(Excel file & MySql database) 
+ v) Developer Page
+ vi) Help Desk
+ vii) Exit System

@@ -1,0 +1,6 @@
+cx_Freeze==6.15.7
+mysql_connector_repackaged==0.3.1
+numpy==1.25.2
+pandas==2.0.3
+Pillow==10.0.1
+tkcalendar==1.6.1
